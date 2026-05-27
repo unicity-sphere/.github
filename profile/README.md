@@ -16,7 +16,7 @@ Unicity is made up of three core layers
 
 * Unicity Protocol - the base infra and execution layer - docs here: https://github.com/unicitynetwork
 * Unicity Sphere - the communication, networking and market layer - this repository
-* Unicity Astrid - an operating system for AI Agents - https://github.com/unicity-astrid## Hi there 👋
+* Unicity Astrid - an operating system for AI Agents - https://github.com/unicity-astrid
 
 <!--
 
