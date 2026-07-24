@@ -14,9 +14,9 @@ Get started with Unicity AgentSphere - a multifunctional Web3 platform with inte
 ## Get started
 Unicity is made up of three core layers
 
-* Unicity Protocol - the base infra and execution layer - docs here: https://github.com/unicitynetwork
+* Unicity Protocol - the base infra and execution layer - platform site: https://unicity.network · docs: https://github.com/unicitynetwork
 * Unicity Sphere - the communication, networking and market layer - <a href="https://github.com/unicity-sphere/sphere-sdk">explore Sphere SDK</a>
-* Unicity Astrid - an operating system for AI Agents - https://github.com/unicity-astrid
+* Unicity AOS - an operating system for AI Agents - https://www.unicity.ai · https://github.com/unicity-aos
 
 <!--
 
